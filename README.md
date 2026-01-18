@@ -1,7 +1,3 @@
-Here's a dazzling `README.md` for your WebBuilder AI project, crafted to capture its innovative spirit and designed to attract attention and contributors.
-
----
-
 <div align="center">
 
 # 🌐 WebBuilder AI
